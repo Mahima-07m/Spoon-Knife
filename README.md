@@ -10,7 +10,7 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 ## Contribution
 
-This repository was updated as part of Software Engineering Lab Exercise 14.
+changed for exam
 
 Name: Mahima
 Branch: feature-readme-update
